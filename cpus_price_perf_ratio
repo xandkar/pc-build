@@ -1,0 +1,15 @@
+#! /bin/sh
+
+awk -F, '
+NR == 1 {
+    for (i=1; i<=NF; i++)
+        f[$i] = i
+    printf "%s%s%s%s%s%s", $0, FS, "price_perf_ratio_1", FS, "price_perf_ratio_n", RS
+}
+
+NR > 1 {
+    price_perf_ratio_1 = $f["score_1"] / $f["price"]
+    price_perf_ratio_n = $f["score_n"] / $f["price"]
+    printf "%s%s%f%s%f%s", $0, FS, price_perf_ratio_1, FS, price_perf_ratio_n, RS
+}
+' cpus.csv | sort -t, -g -k 11 | column -ts,
