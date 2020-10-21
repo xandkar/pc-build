@@ -9,7 +9,7 @@ awk -F, -v OFS=, '
     END {
         for (f in files)
             N++
-        print "name", "score_cuda", "score_opencl", "score_vulcan"
+        print "name", "score_cuda", "score_opencl", "score_vulcan", "price"
         for (name in n) {
             printf "%s", name
             for (i=1; i<=N; i++) {
@@ -24,4 +24,5 @@ awk -F, -v OFS=, '
 gpus_cuda.csv \
 gpus_opencl.csv \
 gpus_vulcan.csv \
+gpus_prices.csv \
 > gpus.csv
