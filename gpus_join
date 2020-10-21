@@ -1,0 +1,27 @@
+#! /bin/sh
+
+awk -F, -v OFS=, '
+    NR > 1 {
+        data[$1, ++n[$1]] = $2
+        files[FILENAME] = 1
+    }
+
+    END {
+        for (f in files)
+            N++
+        print "name", "score_cuda", "score_opencl", "score_vulcan"
+        for (name in n) {
+            printf "%s", name
+            for (i=1; i<=N; i++) {
+                d = data[name, i]
+                d = d ? d : ""
+                printf "%s%s", OFS, d
+            }
+            printf "\n"
+        }
+    }
+' \
+gpus_cuda.csv \
+gpus_opencl.csv \
+gpus_vulcan.csv \
+> gpus.csv

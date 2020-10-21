@@ -1,0 +1,857 @@
+name,score
+GeForce RTX 3090,204157
+GeForce RTX 3080,178162
+GRID V100S-32Q,153272
+TITAN V,146128
+Quadro RTX 8000,143936
+Tesla V100-SXM2-16GB,142691
+TITAN RTX,141486
+GeForce RTX 2080 Ti,137452
+Quadro RTX 6000,133361
+Tesla V100-SXM2-32GB-LS,131696
+GeForce RTX 2080 SUPER,113075
+GeForce RTX 2080,105861
+GeForce RTX 2070 SUPER,97918
+Quadro RTX 5000,93733
+Vega 20 [Radeon VII],91281
+AMD Radeon Pro Vega II Duo,88755
+GeForce RTX 2080 with Max-Q Design,87668
+GeForce RTX 2080 Super with Max-Q Design,87364
+AMD Radeon VII,86605
+GeForce RTX 2070,85873
+Quadro RTX 5000 with Max-Q Design,85802
+AMD Radeon Pro Vega II Duo Compute Engine,85103
+GeForce RTX 2060 SUPER,83827
+AMD Radeon Pro Vega II Compute Engine,82423
+ATI Radeon Pro Vega II Compute Engine,81785
+ATI Radeon Pro Vega II Duo Compute Engine,81498
+GRID RTX6000P-8Q,79528
+AMD Radeon RX 5700 XT 50th Anniversary,78252
+Radeon RX Vega,78247
+Quadro RTX 4000,78176
+AMD Radeon RX 5700 XT,75738
+GeForce RTX 2070 Super with Max-Q Design,75333
+GeForce RTX 2070 with Max-Q Design,73522
+Tesla P100-PCIE-16GB,73258
+Radeon (TM) Pro WX 9100,71918
+GeForce RTX 2060,70955
+Radeon Vega Frontier Edition,68854
+Radeon Pro Vega 64,68194
+Tesla T4,66054
+ATI Radeon Pro Vega 64X Compute Engine,66033
+AMD Radeon RX 5700,65248
+TITAN Xp,65231
+AMD Radeon 5700XT Compute Engine,64537
+AMD Radeon RX5700xt Compute Engine,63132
+Radeon Pro Vega 56,62791
+AMD Radeon Pro Vega 64X Compute Engine,62177
+AMD Radeon RX 5600 XT,62163
+ATI Radeon Pro Vega 64 Compute Engine,61980
+Quadro RTX 3000,61948
+AMD Radeon Pro W5700X Compute Engine,61177
+GeForce GTX 1080 Ti,60913
+Quadro RTX 3000 with Max-Q Design,60736
+GeForce GTX 1660 SUPER,60242
+GeForce GTX 1660 Ti,60036
+GeForce RTX 2060 with Max-Q Design,59734
+AMD Radeon VII Compute Engine,59487
+ATI Radeon HD Vega10 XT Prototype Compute Engine,58926
+AMD Radeon Pro Vega 64 Compute Engine,58746
+ATI Radeon Pro W5700X Compute Engine,58479
+TITAN X (Pascal),56322
+AMD Radeon RX 5700 XT 50th Anniversary Compute Engine,56289
+AMD Radeon Vega Frontier Edition Compute Engine,56175
+ATI Radeon Pro Vega 56 Compute Engine,55927
+GeForce GTX 1660,55522
+AMD Radeon RX Vega 64 Compute Engine,55066
+AMD Radeon Pro 5700 XT Compute Engine,54736
+Quadro P6000,54682
+AMD Radeon Pro Vega 56 Compute Engine,54637
+AMD Radeon RX 5700XT Compute Engine,54383
+AMD Radeon Pro WX 9100 Compute Engine,54319
+GeForce GTX 1080,54317
+GeForce GTX 1660 Ti with Max-Q Design,53557
+ATI Radeon RX Vega10 Unknown Prototype Compute Engine,53388
+AMD Radeon Pro 5700 XT,53345
+ATI Radeon Pro 5700X Compute Engine,53286
+Radeon (TM) Pro Duo,53286
+GeForce GTX 1650 SUPER,53196
+AMD Radeon RX Vega 56 Compute Engine,53083
+AMD Radeon (TM) R9 Fury Series,53063
+AMD Radeon Pro 5600XT Compute Engine,52668
+AMD Radeon Pro 5700X Compute Engine,52299
+ATI Radeon Vega Frontier Edition Compute Engine,52132
+Radeon RX 590 Series,52048
+AMD Radeon(TM) RX 5600M Series,52040
+GeForce GTX 1070 Ti,51542
+ATI Radeon RX Vega 64 Compute Engine,51447
+AMD Radeon RX 5700 XT Compute Engine,51223
+ATI Radeon Vega Compute Engine,50683
+Tesla P40,50454
+AMD Radeon Unknown Prototype Compute Engine,50444
+AMD Radeon RX 5600M,50223
+P102-100,49602
+AMD Radeon Pro Vega 48 Compute Engine,49531
+ATI Radeon VII Compute Engine,49525
+Device 6863,49493
+Radeon Pro Vega 48,49320
+ATI Radeon RX Vega 56 Compute Engine,49112
+GeForce GTX 1080 with Max-Q Design,49038
+AMD Radeon RX590 GME,48836
+AMD Radeon Pro W5700XT Compute Engine,48690
+ATI Radeon Pro WX 9100 Compute Engine,48656
+ATI Radeon RX 5700 XT 50th Anniversary Compute Engine,47952
+AMD Radeon Pro 5700,47929
+AMD Radeon Vega Compute Engine,47733
+ATI Radeon Pro Vega 48 Compute Engine,47418
+GeForce GTX 1070,47385
+ATI Radeon Unknown Prototype Compute Engine,47143
+Quadro P5000,46710
+AMD Radeon (TM) R9 390 Series,46624
+Radeon RX 580 Series,46312
+ATI Radeon RX 5700 XT Compute Engine,45995
+AMD Radeon Pro 5700 Compute Engine,45719
+AMD Radeon Pro 5600M,45660
+AMD Radeon Pro W5500,45411
+Ellesmere [Radeon RX 470/480/570/570X/580/580X/590],45299
+Radeon RX 5500 XT,45248
+AMD Radeon(TM) R9 290X,45055
+AMD Radeon (TM) RX 480 Graphics,44575
+Radeon(TM) RX 580,44513
+AMD Radeon Pro 5600 XT Compute Engine,44486
+ATI Radeon RX 590 Compute Engine,44246
+AMD Radeon Pro W5700 Compute Engine,44124
+AMD Radeon Pro RX580 Compute Engine,44066
+Radeon (TM) RX 480 Graphics,44005
+AMD Radeon (TM) RX 580,43491
+Radeon Pro W5700X,42796
+AMD Radeon HD Hawaii XT Prototype Compute Engine,42664
+GeForce GTX 1650 Ti,42513
+AMD Radeon RX 5700 Compute Engine,42191
+AMD Radeon(TM) Pro Duo,42103
+AMD Radeon Pro 580X,41961
+Radeon Pro 580,41907
+Radeon (TM) RX 570 Graphics,41843
+AMD FirePro W9100,41529
+AMD Radeon RX 5600 XT Compute Engine,41331
+AMD Radeon Pro 5500 XT Compute Engine,41223
+ATI Radeon HD Hawaii XT Prototype Compute Engine,41187
+AMD Radeon RX 590 Compute Engine,41140
+Radeon Pro 580X,40968
+AMD Radeon RX 580 2048SP,40861
+Radeon RX 570 Series,40837
+AMD Radeon HD Hawaii PRO Prototype Compute Engine,40818
+AMD Radeon (TM) Pro WX 7100 Graphics,40753
+GeForce GTX 1070 with Max-Q Design,40680
+AMD Radeon Pro 5500 XT,40650
+ATI Radeon RX 5600 XT Compute Engine,40624
+ATI Radeon Pro 5500 XT Compute Engine,40620
+Quadro P4000,40430
+ATI Radeon RX 580 Compute Engine,40224
+AMD Radeon RX 580 Compute Engine,40213
+GeForce GTX 980 Ti,40027
+Radeon RX 5500M,40000
+Quadro T2000 with Max-Q Design,39747
+AMD Radeon Pro 5600M Compute Engine,39619
+AMD Radeon RX 480 Compute Engine,39398
+Graphics Device,39360
+Radeon (TM) Pro WX 7100 Graphics,39216
+ATI Radeon HD Hawaii PRO Prototype Compute Engine,39145
+GeForce GTX 1650 Ti with Max-Q Design,39021
+Radeon (TM) RX 470 Graphics,38823
+AMD Radeon Pro 580X Compute Engine,38766
+AMD Radeon (TM) RX 570X,38742
+ASUS Radeon RX 470 Series,38574
+Quadro T2000,38450
+GRID P4-8Q,38427
+GeForce GTX 1650,38366
+AMD Radeon Pro Radeon RX 580 Compute Engine,38324
+ATI Radeon HD Hawaii Unknown Prototype Compute Engine,38084
+GeForce GTX TITAN X,37970
+Ellesmere [Radeon RX 470/480/570/570X/580/580X],37778
+Radeon RX 470 Series,37555
+AMD Radeon R9 200 Series,37552
+ATI Radeon RX 5700 Compute Engine,37443
+Radeon (TM) RX 570,36951
+AMD Radeon Pro 580 Compute Engine,36881
+AMD Radeon R9 200 / HD 7900 Series,36872
+ATI Radeon RX 480 Compute Engine,36813
+AMD Radeon (TM) RX 570,36804
+AMD Radeon Pro W5500X Compute Engine,36668
+AMD Radeon (TM) E9550,36624
+AMD Radeon (TM) RX 470 Graphics,36538
+GeForce GTX 1650 with Max-Q Design,36265
+AMD Radeon Pro 5300 Compute Engine,36153
+P106-100,35830
+ATI Radeon Pro WX 7100 Compute Engine,35790
+ATI Radeon RX 570 Compute Engine,35784
+ATI Radeon Pro 580X Compute Engine,35767
+GeForce GTX 1060 6GB,35684
+Radeon RX 570,35525
+AMD FirePro W8100,35395
+AMD Radeon RX 570 Compute Engine,35353
+AMD Radeon Pro 5500M,35243
+AMD Radeon HD Tahiti XT Prototype Compute Engine,35241
+Tesla M40 24GB,35098
+AMD Radeon Pro WX 7100 Compute Engine,35062
+AMD Radeon Pro WX8200 Compute Engine,35060
+ATI Radeon HD Fiji XT Prototype Compute Engine,34993
+Radeon (TM) RX 470 Series,34961
+Quadro P3200,34925
+ASUS R9 280 Series,34909
+ATI Radeon Pro 580 Compute Engine,34801
+Quadro P4200,34685
+Radeon Pro 575X,34373
+Tesla M40,34318
+AMD Radeon RX 470 Compute Engine,34264
+ATI Radeon RX 470 Compute Engine,34251
+AMD Radeon Pro 575X Compute Engine,34227
+AMD Radeon HD Fiji XT Prototype Compute Engine,34025
+AMD Radeon RX 5500 XT Compute Engine,34021
+ATI Radeon HD Tahiti XT Prototype Compute Engine,33845
+Quadro M6000 24GB,33563
+GeForce GTX 980,33466
+AMD Radeon Pro 575 Compute Engine,33441
+GeForce GTX 1060 3GB,33249
+AMD Radeon HD 7900 Series,33008
+Quadro P2200,32754
+AMD Radeon Pro W5500 Compute Engine,32697
+Radeon RX 5300M,32553
+Quadro T1000,32078
+GeForce GTX 1060,31914
+AMD Radeon HD Tonga XT Prototype Compute Engine,31769
+AMD FirePro S10000,31759
+GeForce GTX 1060 5GB,31641
+ATI Radeon Pro 575 Compute Engine,31460
+AMD Radeon Navi14 Compute Engine,31401
+AMD Radeon Pro 5500M Compute Engine,31393
+ATI Radeon Pro 575X Compute Engine,31319
+GeForce GTX 1060 with Max-Q Design,30656
+ATI Radeon RX 5500 XT Compute Engine,30154
+Radeon Pro 570,29897
+Radeon Pro 570X,29295
+AMD Radeon (TM) R9 380 Series,29223
+GeForce GTX 970,29199
+AMD Radeon Pro 570 Compute Engine,29160
+AMD Radeon Pro 570X Compute Engine,29081
+AMD FirePro D700 (FireGL V),29064
+Radeon RX Vega M GH Graphics,28904
+AMD Radeon HD - FirePro D700 Compute Engine,28889
+AMD Radeon HD 7950 Compute Engine,28539
+ATI Radeon HD - FirePro D700 Compute Engine,28514
+AMD Radeon HD Tonga PRO Prototype Compute Engine,28351
+Quadro M5000,28178
+ATI Radeon Pro WX 5100 Compute Engine,28072
+ATI Radeon Pro 5500M Compute Engine,28053
+AMD Radeon R9 M395X Compute Engine,27894
+Radeon Pro Vega 20,27654
+Radeon (TM) Pro WX 5100 Graphics,27578
+Tesla M60,27413
+ATI Radeon R9 M395X Compute Engine,27323
+ATI Radeon HD 7950 Compute Engine,27319
+AMD RADEON R9 M395X,27297
+AMD Radeon R9 M295X Compute Engine,27127
+ATI Radeon HD Tonga XT Prototype Compute Engine,27082
+AMD Radeon Pro 5300M,27028
+ATI Radeon Pro 570X Compute Engine,26899
+ATI Radeon R9 M295X Compute Engine,26881
+AMD RADEON R9 M295X,26848
+ATI Radeon Pro 570 Compute Engine,26781
+ATI Radeon Pro W5500X Compute Engine,26480
+AMD Radeon Pro WX 5100 Compute Engine,26061
+AMD Radeon Pro 5300M Compute Engine,25996
+AMD Radeon (TM) R9 200 Series,25216
+AMD Radeon(TM) R9 270,24991
+ATI Radeon HD Tonga PRO Prototype Compute Engine,24867
+AMD Radeon (TM) R7 370 Series Graphics,24719
+AMD Radeon Polaris Compute Engine,24710
+AMD Radeon HD 7800 Series,24466
+AMD Radeon Pro Vega 20 Compute Engine,24217
+GeForce GTX 980M,23914
+ATI Radeon Pro Vega 20 Compute Engine,23888
+AMD Radeon HD Pitcairn Unknown Prototype Compute Engine,23795
+AMD Radeon R9 M395 Compute Engine,23677
+AMD Radeon HD Pitcairn XT Prototype Compute Engine,23594
+Quadro P2000,23576
+ATI Radeon Pro 5300M Compute Engine,23509
+AMD Radeon(TM) HD8970M,23398
+ATI Radeon Polaris Compute Engine,23363
+ATI Radeon HD Pitcairn PRO Prototype Compute Engine,23282
+AMD Radeon (TM) R7 370 Series,23273
+ATI Radeon HD Ellesmere Prototype Compute Engine,23268
+ATI Radeon R9 M395 Compute Engine,23189
+Radeon Pro Series,22948
+AMD Radeon R9 M290X Compute Engine,22733
+ATI Radeon R9 M290X Compute Engine,22590
+AMD Radeon (TM) R9 370 Series,22398
+Quadro M5000M,22260
+AMD FirePro D300 (FireGL V),22150
+GeForce GTX 1050 Ti,21950
+AMD RADEON R9 M290X,21875
+ATI Radeon HD Pitcairn Unknown Prototype Compute Engine,21796
+ATI Radeon HD Pitcairn XT Prototype Compute Engine,21531
+AMD RADEON R9 M395,21512
+P106-090,21416
+AMD Radeon HD - FirePro D300 Compute Engine,21334
+Radeon RX Vega M GL Graphics,21266
+AMD Radeon Pro Vega 16 Compute Engine,21145
+AMD Radeon HD Pitcairn PRO Prototype Compute Engine,21077
+Quadro K6000,21061
+Radeon RX 560 Series,21048
+AMD RADEON R9 M390,20958
+Quadro M4000M,20871
+AMD Radeon HD - FirePro D500 Compute Engine,20870
+GeForce GTX 960,20808
+GeForce GTX TITAN Black,20803
+ATI Radeon HD Baffin Unknown Prototype Compute Engine,20764
+ATI Radeon HD - FirePro D300 Compute Engine,20706
+AMD Radeon HD 7970M,20653
+AMD FirePro D500 (FireGL V),20629
+GeForce GTX 1050 Ti with Max-Q Design,20597
+GeForce GTX 780 Ti,20564
+ATI Radeon Pro Vega 16 Compute Engine,20539
+ATI Radeon HD - FirePro D500 Compute Engine,20371
+ATI Radeon R9 M290 Compute Engine,20068
+AMD Radeon RX 560 Compute Engine,20034
+AMD Radeon R9 M290 Compute Engine,20018
+AMD Radeon R9 M390 Compute Engine,19945
+AMD Radeon(TM) RX 560 Series,19930
+ATI Radeon RX 560 Compute Engine,19923
+Radeon RX 560X Series,19873
+Radeon(TM) RX 460 Graphics,19872
+Radeon (TM) Pro WX 4100,19803
+GeForce GTX 970M,19710
+Radeon Pro WX 4100,19636
+Quadro P2000 with Max-Q Design,19598
+AMD Radeon HD Ellesmere Prototype Compute Engine,19364
+ATI Radeon R9 M390 Compute Engine,19360
+ATI Radeon Pro WX 4100 Compute Engine,19327
+Radeon RX 560X,19213
+AMD Radeon (TM) R9 M390X,19068
+AMD FirePro D300,18974
+AMD Radeon Pro 560X Compute Engine,18826
+ATI Radeon RX 460 Compute Engine,18308
+Quadro M4000,18282
+AMD Radeon RX 460 Compute Engine,18200
+GeForce GTX 1050,18018
+GeForce GTX 950,17945
+GeForce GTX 1050 with Max-Q Design,17757
+GeForce GTX TITAN Z,17751
+AMD Radeon(TM) RX 560,17731
+Tesla K80,17429
+Radeon Pro 560X,17237
+Quadro M3000M,17181
+GeForce GTX TITAN,17179
+AMD Radeon Pro 460 Compute Engine,17084
+AMD Radeon Pro 560 Compute Engine,16959
+AMD Radeon HD Bonaire XT Prototype Compute Engine,16783
+AMD Radeon Pro WX 4100 Compute Engine,16618
+GeForce GTX 780,16536
+ATI Radeon Pro 560X Compute Engine,16485
+AMD Radeon Pro 460,16434
+Intel(R) Iris(R) Xe Graphics,16381
+Quadro K5200,16364
+Tesla K20Xm,16097
+AMD Radeon (TM) R7 360 Series,16083
+Radeon Pro 560,16067
+AMD Radeon RX 550 Compute Engine,15981
+AMD Radeon HD 8950,15865
+67EF:CF,15861
+Unknown,15766
+AMD FirePro M6100,15748
+GeForce GTX 965M,15745
+ATI Radeon Pro 460 Compute Engine,15199
+AMD Radeon R9 M380 Compute Engine,15108
+AMD 15D8:C8,14905
+Quadro M2000,14854
+Quadro M2200,14785
+ATI Radeon Pro 560 Compute Engine,14709
+Radeon Pro 555X,14654
+ATI Radeon R9 M380 Compute Engine,14617
+GeForce GTX 760 Ti OEM,14607
+Quadro P1000,14561
+Tesla K20c,14551
+GeForce GTX 580,14504
+AMD Radeon R9 M380,14422
+GeForce GTX 770,14262
+ASUS R7 250X Series,14260
+ATI Radeon RX 550 Compute Engine,13952
+AMD Radeon Pro WX 3200 Series,13925
+AMD Radeon Pro 555X Compute Engine,13898
+GeForce MX350,13831
+AMD Radeon (TM) R9 360,13828
+GeForce GTX 660 Ti,13677
+Radeon RX 550 Series,13657
+AMD 15D8:D8,13559
+ATI Radeon HD Verde XT Prototype Compute Engine,13536
+AMD Radeon Pro 555 Compute Engine,13466
+AMD Radeon HD Verde XT Prototype Compute Engine,13207
+AMD Radeon Pro 455 Compute Engine,13194
+AMD Radeon(TM) RX Vega 11 Graphics,13038
+AMD 15D8:DA,12871
+Radeon RX550/550 Series,12858
+Radeon Pro 555,12826
+GeForce GTX 750 Ti,12690
+GeForce GTX 480,12660
+Radeon RX 550X,12598
+AMD Radeon RX 550,12584
+Quadro P620,12492
+GeForce GTX 870M,12487
+AMD Radeon(TM) Vega 11 Graphics,12389
+ATI Radeon Pro 555X Compute Engine,12360
+GeForce GTX 570,12323
+AMD Radeon Pro 455,12296
+AMD Radeon HD 7700 Series,12295
+GeForce GTX 960M,12230
+Tesla K10.G2.8GB,12189
+GeForce GTX 670,12144
+AMD Radeon (TM) Pro WX 3200 Series,12134
+Intel(R) Gen12 Mobile Graphics Controller,12068
+ATI Radeon Pro 555 Compute Engine,12044
+ATI Radeon Pro 455 Compute Engine,11888
+AMD Radeon(TM) RX Vega 8 Graphics,11842
+Quadro K2200,11813
+Radeon(TM) RX 550,11695
+Radeon (TM) RX 550X,11644
+AMD Radeon Pro WX3200 Graphics,11580
+Radeon (TM) RX 550,11419
+Quadro M1200,11326
+AMD Radeon R7 200 Series,11286
+AMD Radeon Pro WX 3100,11255
+Apple A12Z,11231
+AMD 15D8:C9,11207
+GeForce MX330,11184
+GeForce GTX 880M,11165
+AMD Radeon R7 450,10960
+Intel(R) Gen12 Mobile Graphice Controller,10922
+Radeon 550X Series,10885
+Quadro P600,10859
+Quadro M2000M,10763
+GeForce GTX 760,10762
+GeForce GTX 690,10716
+GeForce GT 1030,10689
+AMD Radeon Pro 450 Compute Engine,10646
+AMD Radeon Pro 450,10638
+AMD Radeon (TM) RX 640,10586
+AMD Radeon (TM) R9 M375,10568
+AMD Radeon R9 M370X Compute Engine,10446
+GeForce GTX 750,10441
+AMD Radeon(TM) 540,10366
+Radeon Pro WX 3100,10303
+ATI Radeon R9 M370X Compute Engine,10272
+GeForce MX250,10218
+GeForce GTX 860M,10186
+Radeon RX 540,10179
+AMD Radeon(TM) RX Vega11 Graphics,10108
+GRID K2,10101
+AMD Radeon(TM) Graphics,10078
+AMD Radeon 550X,10077
+GeForce MX150,10073
+GeForce GTX 660,10042
+AMD Radeon R9 M370X,10039
+GeForce GTX 950M,9992
+Unknown AMD GPU,9913
+GeForce GTX 850M,9912
+AMD Radeon Pro WX 2100 Graphics,9907
+AMD Radeon HD 7800M Series,9869
+GeForce GTX 680,9859
+GeForce GTX 680M,9769
+Quadro 6000,9757
+ATI Radeon Pro 450 Compute Engine,9754
+AMD FirePro W5170M,9732
+AMD Radeon(TM) Vega 9 Graphics,9716
+AMD Radeon R7 250 Series,9663
+AMD Embedded Radeon E9173,9621
+AMD Radeon HD Verde PRO Prototype Compute Engine,9539
+GeForce GTX 560 Ti,9516
+Quadro K4200,9514
+AMD Radeon R9 M275X,9498
+GeForce GTX 470,9405
+AMD Radeon(TM) Vega 10 Graphics,9374
+GeForce GTX 760 (192-bit),9246
+AMD Radeon R9 M275,9231
+Quadro M1000M,9106
+AMD Radeon(TM) RX Vega 10 Graphics,9099
+Quadro K1200,9060
+AMD Radeon(TM) R7 250,9036
+AMD Radeon(TM) R9 M375,8880
+Radeon 500 Series,8819
+Quadro M620,8815
+Radeon Instinct MI25 MxGPU,8728
+AMD FirePro W5130M,8721
+Radeon 540X Series,8704
+AMD Radeon(TM) Vega 8 Graphics,8650
+AMD Radeon HD 8870M,8490
+ATI Radeon HD Verde PRO Prototype Compute Engine,8464
+Quadro P520,8205
+Intel(R) Iris(R) Plus Graphics 645,8190
+GeForce GPU,8179
+Intel(R) Iris(R) Pro Graphics 580,8174
+AMD Radeon(TM) R7 200 Series Graphics,8110
+Radeon(TM) 540 Graphics,8075
+Quadro K5100M,8028
+Radeon (TM) Pro WX 4130 Graphics,7989
+GeForce GTX 560,7952
+AMD Radeon(TM) Vega 8 Mobile Graphics,7854
+Intel(R) Iris(TM) Plus Graphics,7810
+AMD Radeon (TM) R7 M370,7532
+AMD Radeon R9 M200X Series,7511
+Intel(R) Iris(R) Plus Graphics 655,7498
+Intel(R) Iris(TM) Plus Graphics 655,7403
+Radeon 535 Series,7290
+GeForce GTX 650 Ti,7279
+Intel(R) Iris(TM) Plus Graphics 645,7269
+GeForce MX230,7241
+AMD Radeon R7 M460,7225
+AMD Radeon HD 8790M,7162
+GeForce MX130,7156
+Intel(R) Iris(R) Plus Graphics,7135
+GeForce GTX 650 Ti BOOST,7110
+AMD Radeon(TM) 535,7078
+Intel(R) Iris(TM) Plus Graphics 650,7066
+AMD Radeon HD 8570,7030
+AMD Radeon(TM) Vega 6 Graphics,7009
+Quadro K5000,6995
+AMD Radeon HD 8600/8700M,6933
+Radeon (TM) 530,6910
+AMD Radeon HD 7700M Series,6904
+Intel(R) Iris(TM) Pro Graphics 580,6775
+Intel(R) Iris(R) Graphics 550,6765
+AMD Radeon HD 8750M,6694
+Quadro K620,6664
+GeForce GTX 460,6640
+AMD Radeon R7 M265 Series,6595
+AMD FirePro W4100,6526
+AMD Radeon R7 430,6506
+AMD FirePro W4170M,6460
+GeForce GTX 770M,6443
+AMD FirePro M4000,6401
+GeForce 940MX,6389
+Intel(R) Iris(TM) Plus Graphics 640,6383
+AMD Radeon R7 Graphics,6289
+Quadro 5000,6282
+Intel(R) Iris(TM) Graphics 550,6265
+Intel(R) Iris(TM) Graphics 540,6246
+GeForce GTX 745,6233
+Intel(R) Iris(TM) Pro Graphics 540,6166
+Radeon 520,6139
+Intel(R) Iris(R) Plus Graphics 650,6116
+Intel(R) UHD Graphics P630,6112
+AMD Radeon HD 8730M,6097
+AMD Radeon(TM) 530 series,6084
+Intel(R) Iris(TM) Graphics 650,6053
+Quadro K620M,6048
+GeForce GTX 670M,6035
+Intel(R) Iris(TM) Pro Graphics P6300,6032
+Quadro M500M,6027
+AMD Radeon R5 M435,6025
+GeForce 940M,5966
+Radeon (TM) R7 M445,5942
+AMD Radeon R5 M200 Series,5930
+Radeon(TM) 520,5921
+AMD Radeon R7 M440,5885
+Intel(R) Iris(R) Graphics 540,5875
+Intel(R) Gen9 HD Graphics NEO,5860
+GeForce 840M,5805
+AMD Radeon (TM) HD 8500M/8700M,5792
+Quadro K4000,5761
+GeForce 930MX,5760
+Radeon 530 Series,5715
+GeForce GTX 570M,5696
+Radeon (TM) 520,5620
+AMD Radeon R7 M265,5615
+Intel(R) HD Graphics Gen9,5603
+AMD Radeon(TM) 530,5598
+Intel(R) Iris(R) Plus Graphics 640,5596
+Quadro P400,5594
+AMD Radeon (TM) R7 M360,5580
+Quadro P500,5560
+AMD Radeon R5 430,5540
+AMD Radeon R8 M365DX,5490
+AMD Radeon HD 8600M Series,5487
+AMD Radeon HD 6900 Series,5475
+ATI Radeon HD 5800 Series,5463
+AMD Radeon(TM) R5 340X,5418
+AMD Radeon R7 240 Series,5402
+AMD Radeon HD 5800 Series,5367
+Quadro M600M,5364
+GeForce GTX 550 Ti,5350
+AMD Radeon (TM) R5 M330,5349
+GeForce GTX 760M,5336
+AMD Radeon R7 M260,5313
+Intel(R) HD Graphics P630,5300
+AMD Radeon R5 M330,5297
+GeForce GTX 765M,5281
+GeForce 930M,5249
+AMD Radeon(TM) R7 Graphics,5243
+AMD Radeon(TM) R5 M430,5230
+AMD Radeon HD 8500 series,5219
+AMD Radeon (TM) R7 M340,5187
+AMD Radeon (TM) 520,5178
+AMD Radeon(TM) R5 240,5177
+Intel(R) Iris(TM) Pro Graphics 5200,5154
+AMD Radeon R5 330,5123
+AMD 15D8:CC,5105
+GeForce GTX 780M,5099
+Intel(R) UHD Graphics 630,5097
+Radeon (TM) HD 8670M,5094
+AMD FirePro W4190M,5091
+AMD Radeon (TM) R5 M430,5078
+Intel(R) UHD Graphics,5060
+Intel(R) Iris(TM) Pro Graphics 6200,5045
+AMD Radeon (TM) R5 M320,5027
+AMD Radeon (TM) R5 M335,5010
+AMD Radeon R5 M255,5008
+AMD Radeon HD 8670M,4957
+Mali-G77 r0p1,4934
+AMD Radeon R7 240,4920
+AMD Radeon HD 8500M Series,4918
+Intel(R) HD Graphics 630,4899
+AMD Radeon R5 Graphics,4869
+Intel(R) UHD Graphics 620,4853
+AMD Radeon R5 M335,4810
+Intel(R) HD Graphics P530,4764
+Radeon(TM) 530,4719
+AMD Radeon (TM) 530,4691
+AMD Radeon R6 Graphics,4687
+AMD Radeon (TM) 625,4672
+Quadro K4100M,4649
+AMD Ryzen 5 2400G with Radeon Vega Graphics,4631
+GeForce MX110,4601
+AMD Radeon R5 M230,4591
+AMD Radeon(TM) R5 M330,4587
+GeForce 830A,4569
+Radeon (TM) R5 M420,4563
+Intel(R) HD Graphics 530,4549
+Intel(R) LakeField Mobile Graphics Controller,4540
+GeForce GTX 560M,4521
+GeForce GTX 680MX,4499
+Quadro K3100M,4496
+GeForce GTS 450,4472
+KBL Graphics,4458
+Intel(R) HD Graphics 620,4440
+AMD Radeon(TM) R5 M420,4438
+AMD FirePro W2100,4421
+GeForce 830M,4420
+AMD Radeon(TM) Vega 3 Graphics,4410
+Iris Pro,4396
+Radeon (TM) R5 M430,4385
+AMD Radeon R7 M360,4370
+GeForce GTX 775M,4369
+AMD Radeon HD 8500M,4347
+Quadro K4000M,4315
+Intel(R) Iris(TM) Graphics 5100,4249
+AMD Radeon HD 6800 Series,4243
+AMD Radeon 610 Series,4241
+Quadro 4000,4206
+Intel(R) HD Graphics 520,4200
+GeForce 920MX,4196
+Quadro K5000M,4145
+Intel(R) UHD Graphics 617,4041
+SKL Graphics,4040
+AMD Radeon(TM) R6 Graphics,4033
+AMD Radeon(TM) R7 M360,4020
+GeForce GTX 675MX,3952
+Intel(R) HD Graphics 6000,3947
+Mali-G76,3928
+GeForce GTX 650,3923
+Iris,3911
+GeForce GTX 660M,3855
+GeForce GT 635,3800
+GeForce GTX 645,3789
+Intel(R) UHD Graphics 615,3743
+GeForce GT 740M,3668
+GeForce GTX 460M,3639
+GeForce GT 745M,3611
+Intel(R) HD Graphics 615,3610
+Intel(R) Iris(TM) Graphics 6100,3582
+AMD Radeon (TM) R6 Graphics,3575
+Quadro K2000,3474
+GeForce 920M,3456
+AMD Radeon R7 Series,3447
+AMD Radeon (TM) R5 M315,3427
+GeForce GT 740,3404
+HD Graphics 5000,3399
+Intel(R) HD Graphics 5000,3378
+Quadro K2100M,3335
+Intel(R) HD Graphics 515,3304
+AMD Radeon HD 6700 Series,3293
+Intel HD Graphics Family,3270
+Intel(R) Gen8 HD Graphics NEO,3261
+GeForce GT 640,3250
+Quadro 2000,3224
+GeForce GT 730,3156
+Intel(R) UHD Graphics 610,3142
+AMD Radeon HD 5700 Series,3121
+Quadro K3000M,3121
+Intel(R) HD Graphics 4600,3102
+GeForce GT 730M,3045
+Intel(R) HD Graphics 5600,2938
+Mali-G57 r0p1,2934
+AMD Radeon(TM) R5 Graphics,2920
+GeForce GT 645M,2863
+Intel(R) HD Graphics 510,2800
+Mali-G72,2785
+Mali-G57 r0p0,2765
+Intel(R) HD Graphics P4600,2763
+Intel(R) HD Graphics 610,2759
+GeForce GT 555M,2695
+AMD Radeon HD 6900M Series,2693
+GeForce GT 545,2633
+Quadro K2000M,2569
+Quadro 2000M,2552
+Intel(R) HD Graphics 5500,2523
+Mali-G71,2486
+Quadro K1100M,2384
+GeForce GT 440,2355
+Intel(R) HD Graphics 4400,2339
+GeForce 820M,2299
+GeForce GT 720,2265
+GeForce GT 640M,2245
+NVS 5400M,2239
+Mali-TNAX r0p0,2163
+GeForce GT 755M,2137
+GeForce GT 640M LE,2102
+GeForce GT 630,2097
+AMD Radeon HD 8670D,2088
+GeForce GT 530,2082
+ATI FirePro V (FireGL V) Graphics Adapter,2061
+GeForce GT 710,2052
+AMD Radeon HD 7660D,2048
+Mali-G76 MC4 r0p0,2015
+Intel(R) HD Graphics 4200,2011
+GeForce GT 550M,1998
+GeForce GT 720M,1993
+GeForce 710M,1983
+GeForce GT 710M,1963
+GeForce GT 430,1954
+GeForce GT625M,1940
+AMD Radeon(TM) R4 Graphics,1925
+Mali-G76 MC4,1911
+GeForce GT 750M,1910
+QUALCOMM Adreno(TM),1897
+GeForce GT 630M,1876
+Intel(R) HD Graphics 5300,1853
+Quadro 600,1823
+GeForce GT 540M,1760
+Quadro K610M,1756
+GeForce GT 650M,1743
+Intel(R) UHD Graphics 605,1742
+Intel(R) HD Graphics 405,1732
+NVS 5200M,1710
+Mali-G52,1700
+AMD Radeon HD 7660G,1682
+AMD Radeon HD 8650G,1673
+AMD Radeon HD 6670,1650
+GeForce GT 435M,1649
+Quadro K1000M,1636
+GeForce GT 635M,1632
+GeForce GT 620M,1616
+Quadro K600,1613
+Mali-T880,1607
+GeForce GT 525M,1558
+GeForce GT 820M,1550
+GeForce GT 425M,1541
+ATI Radeon HD 5870,1536
+AMD Radeon HD 8400 / R3 Series,1532
+AMD Radeon HD 8610G,1523
+Quadro 1000M,1514
+AMD Radeon HD 5670,1513
+AMD Radeon HD 8570D,1506
+ATI FirePro V4800 (FireGL) Graphics Adapter,1481
+AMD Radeon HD 8200 / R3 Series,1479
+NVS 510,1474
+ATI Radeon HD 5670,1471
+AMD Radeon HD 7560D,1457
+AMD Radeon(TM) HD 8610G,1456
+AMD Radeon HD 6700M Series,1434
+AMD Radeon HD 8400,1434
+AMD Radeon HD 8330,1432
+Quadro K420,1409
+AMD Radeon HD 6570,1401
+GeForce GT 620,1382
+AMD Radeon HD 8550G,1369
+AMD Radeon(TM) R3 Graphics,1364
+AMD Radeon HD 7500 Series,1360
+Intel(R) HD Graphics 505,1358
+GeForce GT 420M,1341
+AMD Radeon HD 7570,1338
+AMD Radeon(TM) HD 7650A Graphics,1264
+AMD Radeon HD 7640G,1261
+Intel(R) HD Graphics 400,1260
+AMD Radeon HD 7670M,1249
+AMD Radeon Series,1248
+AMD Radeon HD 7600M Series,1238
+Intel(R) UHD Graphics 600,1236
+GeForce GT 705,1234
+AMD Radeon HD 5570,1229
+Mali-G72 MP3 r0p3,1227
+AMD Radeon HD 6550D,1208
+AMD Radeon HD 7620G,1203
+AMD Radeon(TM) R2 Graphics,1175
+GeForce GT 610,1161
+NVS 4200M,1157
+AMD Radeon HD 8470D,1152
+GeForce GT 520MX,1139
+AMD Radeon 6600M and 6700M Series,1131
+Mali-G72 MP3,1126
+GeForce 610M,1118
+GeForce GT 520,1114
+AMD Radeon HD 7600G,1088
+Mali-G52 MC2 r1p0,1072
+AMD Mobility Radeon HD 5000 Series,1070
+AMD Radeon HD 7540D,1068
+AMD Radeon HD 7500M/7600M Series,1054
+Intel(R) HD Graphics 500,1034
+AMD Radeon HD 7650M,1027
+ATI Radeon HD 6970M,1016
+GeForce GT 520M,1004
+ATI Radeon HD 5770,997
+Mali-T760,995
+GeForce GT 420,992
+HD Graphics 4000,989
+AMD Radeon HD 6630M,984
+Mali-G51,983
+AMD Radeon HD 7570M,967
+AMD Radeon HD 7520G,956
+AMD Radeon HD 8450G,934
+Intel(R) HD Graphics 4000,932
+Mali-G52 MC2,932
+GeForce GT 625,925
+Intel(R) HD Graphics,925
+GeForce 410M,898
+AMD Radeon HD 6620G,872
+NVS 315,855
+NVS 310,850
+AMD Radeon HD 6530D,798
+ATI Radeon HD 5750,793
+AMD Radeon HD 7000 series,792
+AMD Radeon HD 8370D,792
+AMD Radeon HD 6470M,779
+AMD Radeon HD 8470,771
+AMD Radeon HD 8210,758
+AMD Radeon HD 7400M Series,746
+AMD Radeon HD 7480D,745
+Mali-G71 MP2 r0p0,725
+AMD Radeon HD 6520G,697
+AMD Radeon(TM) HD 7450,659
+AMD Radeon HD 7450,641
+AMD Radeon HD 6450,634
+AMD Radeon HD 7400 Series,634
+AMD Radeon R5 200 Series,631
+AMD Radeon HD 7450 Graphics,626
+AMD Radeon HD 6480G,582
+Mali-T860,536
+Mali-G52 MC1,531
+AMD Radeon HD 6300M Series,456
+ATI Radeon HD 6770M,450
+Mali-T830,437
+ATI Radeon HD 6750M,405
+AMD Radeon HD 7340 Graphics,404
+Intel(R) HD Graphics 2500,398
+AMD Radeon HD 5450,392
+ATI Radeon HD 5400 Series,385
+AMD Radeon HD 6320 Graphics,337
+AMD Radeon HD 6310 Graphics,306
+AMD Radeon HD 7310 Graphics,281
+Mali-T720,182

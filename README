@@ -1,1 +1,3 @@
-perf data from: https://browser.geekbench.com/processor-benchmarks
+Perf data sources:
+- CPU: https://browser.geekbench.com/processor-benchmarks
+- GPU: https://browser.geekbench.com/cuda-benchmarks
