@@ -1,1 +1,14 @@
 perf data from: https://browser.geekbench.com/processor-benchmarks
+
+name                          cores  threads  freq  freq_max  power  score_1  score_n  price  price_perf_ratio_1  price_perf_ratio_n
+Intel Xeon W-3275M            28     56       2500  4400      205    956      17474    3000   0.318667            5.824667
+AMD Ryzen Threadripper 3990X  64     128      2900  4300      280    1205     25054    3850   0.312987            6.507532
+Intel Xeon W-3175X            28     56       3100  3800      255    1155     23171    3100   0.372581            7.474516
+AMD Ryzen Threadripper 3970X  32     64       3700  4500      280    1253     22790    1850   0.677297            12.318919
+Intel Core i9-9980XE          18     36       3000  4400      165    1145     15867    1100   1.040909            14.424545
+AMD Ryzen Threadripper 3960X  24     48       3800  4500      280    1272     19803    1350   0.942222            14.668889
+Intel Core i9-10980XE         18     36       3000  4600      165    1158     14762    820    1.412195            18.002439
+AMD Ryzen 9 3950X             16     32       3500  4700      105    1292     14100    710    1.819718            19.859155
+AMD Ryzen Threadripper 2950X  16     32       3500  4400      180    1064     12532    590    1.803390            21.240678
+AMD Ryzen 9 3900XT            12     24       3800  4700      105    1336     12396    455    2.936264            27.243956
+AMD Ryzen 9 3900X             12     24       3800  4600      105    1281     11865    430    2.979070            27.593023
