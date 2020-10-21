@@ -1,0 +1,59 @@
+#! /bin/bash
+
+DATA_FILE='gpus.csv'
+
+main() {
+    local hd=$(head -1 "$DATA_FILE")
+    local tl=$(awk -F, -v OFS=, '
+        NR == 1 {
+            for (i=1; i<=NF; i++)
+                f[$i] = i
+            next
+        }
+
+        NR > 1 && $f["name"] && $f["score_cuda"] && $f["score_opencl"] && $f["score_vulcan"] && $f["price"]
+        ' "$DATA_FILE"
+    )
+
+    while read -r dst_name src_i rev_opt; do
+        hd="${hd},$dst_name"
+        tl=$(echo "$tl" | sort -t, -g -k "$src_i" $rev_opt | awk -F, -v OFS=, '{print $0, NR}')
+    done << EOF
+rank_score_cuda    2  -r
+rank_score_opencl  3  -r
+rank_score_vulcan  4  -r
+rank_price         5
+EOF
+    hd="${hd},rank_total"
+    pos_of_rank=$(echo "$hd" | awk -F, '{print NF}')
+    tl=$(
+        (echo "$hd"; echo "$tl") \
+        | awk -F, -v OFS=, '
+            NR == 1 {
+                for (i=1; i<=NF; i++)
+                    f[$i] = i
+                next
+            }
+
+            NR > 1 {
+                rank_total = 0 \
+                    + $f["rank_score_cuda"] \
+                    + $f["rank_score_opencl"] \
+                    + $f["rank_score_vulcan"] \
+                    + $f["rank_price"]
+                print $0, rank_total
+            }
+        ' \
+        | sort -t, -g -k "$pos_of_rank" \
+        | awk -F, -v OFS=, '
+            {
+                $NF = NR
+                print
+            }
+        '
+    )
+
+    (echo "$hd"; echo "$tl") | column -ts,
+}
+
+main
