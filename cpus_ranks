@@ -1,13 +1,10 @@
 #! /bin/bash
 
-F='cpus.csv'
+DATA_FILE='cpus.csv'
 
 main() {
-    local -r hd0=$(head -1 "$F")
-    local -r tl0=$(awk 'NR > 1' "$F")
-
-    local hd="$hd0"
-    local tl="$tl0"
+    local hd=$(head -1 "$DATA_FILE")
+    local tl=$(awk 'NR > 1' "$DATA_FILE")
 
     while read -r dst_name src_i rev_opt; do
         hd="${hd},$dst_name"
