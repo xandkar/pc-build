@@ -1,0 +1,56 @@
+#! /bin/bash
+
+F='cpus.csv'
+
+main() {
+    local -r hd0=$(head -1 "$F")
+    local -r tl0=$(awk 'NR > 1' "$F")
+
+    local hd="$hd0"
+    local tl="$tl0"
+
+    while read -r dst_name src_i rev_opt; do
+        hd="${hd},$dst_name"
+        tl=$(echo "$tl" | sort -t, -g -k "$src_i" $rev_opt | awk -F, -v OFS=, '{print $0, NR}')
+    done << EOF
+rank_power     6
+rank_score_1   7  -r
+rank_score_n   8  -r
+rank_price     9
+EOF
+    hd="${hd},rank_total"
+    pos_of_rank=$(echo "$hd" | awk -F, '{print NF}')
+    tl=$(
+        (echo "$hd"; echo "$tl") \
+        | awk -F, -v OFS=, '
+            NR == 1 {
+                for (i=1; i<=NF; i++)
+                    f[$i] = i
+                next
+            }
+
+            NR > 1 {
+                rank_total = 0 \
+                    + $f["rank_cores"] \
+                    + $f["rank_freq"] \
+                    + $f["rank_freq_max"] \
+                    + $f["rank_power"] \
+                    + $f["rank_score_1"] \
+                    + $f["rank_score_n"] \
+                    + $f["rank_price"]
+                print $0, rank_total
+            }
+        ' \
+        | sort -t, -g -k "$pos_of_rank" \
+        | awk -F, -v OFS=, '
+            {
+                $NF = NR
+                print
+            }
+        '
+    )
+
+    (echo "$hd"; echo "$tl") | column -ts,
+}
+
+main
