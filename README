@@ -1,9 +1,42 @@
-Perf data sources:
+Data sources
+------------
+
+### Performance
 - CPU: https://browser.geekbench.com/processor-benchmarks
 - GPU: https://browser.geekbench.com/cuda-benchmarks
 
-Price data sources:
+### Prices
 - https://www.nvidia.com/en-us/shop/
 - https://pcpartpicker.com/products/video-card
 - https://www.amazon.com/
 - https://www.ebay.com/
+
+
+Reference builds
+----------------
+
+### Thermaltake Tower 900
+- https://www.youtube.com/watch?v=ZZe8AUWMClo
+- https://www.youtube.com/watch?v=_dHYBy3lm-4
+- https://www.youtube.com/watch?v=yVksPbtmhos
+- https://www.youtube.com/watch?v=THGg-0kK-oU
+- https://www.youtube.com/watch?v=D4iq5NQtfNQ
+- https://www.youtube.com/watch?v=jXzLWoupa2Y
+
+
+Techniques
+----------
+
+### Copper tubing
+- https://www.youtube.com/watch?v=7LtPurAiR1I
+    - sand the pipes BEFORE heating and after bending
+    - pipes:
+        - BAD: coil tubing
+        - GOOD:
+            - straight, hard, 1/2 inch diameter copper pipe
+              (5/8 inch outer diameter)
+            - type K pipe (thicker, so easier and cleaner to bend)
+    - tools:
+        - cutter
+        - bender: 16mm, 180 degree, large radius
+        - maybe this: https://www.ebay.com/itm/5-8-Tube-Pipe-Bender-16mm-Copper-Pipe-Professional-DIY-Plumbing-HOT/153604743702
