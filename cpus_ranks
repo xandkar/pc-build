@@ -28,9 +28,6 @@ EOF
 
             NR > 1 {
                 rank_total = 0 \
-                    + $f["rank_cores"] \
-                    + $f["rank_freq"] \
-                    + $f["rank_freq_max"] \
                     + $f["rank_power"] \
                     + $f["rank_score_1"] \
                     + $f["rank_score_n"] \
