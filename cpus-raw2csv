@@ -4,10 +4,6 @@ sed 's/\s\+$//g' \
 | awk '!/^$/' \
 | awk 'NR > 1' \
 | awk '
-    BEGIN {
-        printf "name,cores,freq,score"
-    }
-
     # name
     NR % 3 == 1 {
         printf "%s", $0
@@ -32,4 +28,9 @@ sed 's/\s\+$//g' \
     NR % 3 == 0 {
         printf ",%d\n", $1
     }
+    ' \
+| sort \
+| awk '
+    BEGIN {printf "name,cores,freq,score\n"}
+    1
     '
