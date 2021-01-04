@@ -1,5 +1,5 @@
 .PHONY: default
 default: cpus_multi.csv cpus_single.csv
 
-%.csv: %.raw
+%.csv: %.raw cpus-raw2csv
 	./cpus-raw2csv < $< > $@

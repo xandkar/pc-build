@@ -2,10 +2,34 @@
 
 sed 's/\s\+$//g' \
 | awk '!/^$/' \
+| awk 'NR > 1' \
 | awk '
-    NR == 1 {printf "%s,%s\n", $1, $2; row=0; next}
-    {row++}
-    row % 3 == 1 {printf "%s", $0}
-    row % 3 == 2 {printf " %s", $0}
-    row % 3 == 0 {printf ",%s\n", $0}
+    BEGIN {
+        printf "name,cores,freq,score"
+    }
+
+    # name
+    NR % 3 == 1 {
+        printf "%s", $0
+    }
+
+    # specs
+    NR % 3 == 2 {
+        freq = $1
+        unit = $2
+        cores = $3
+        sub("^\\(", "", cores)
+        if (unit == "GHz") {
+            freq *= 1000
+        } else if (unit != "MHz") {
+            printf "[error] Frequency unit not GHz|MHz on line %d: %s\n", NR, $0
+            exit 1
+        }
+        printf ",%d,%d", cores, freq
+    }
+
+    # score
+    NR % 3 == 0 {
+        printf ",%d\n", $1
+    }
     '
