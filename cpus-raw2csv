@@ -1,0 +1,11 @@
+#! /bin/sh
+
+sed 's/\s\+$//g' \
+| awk '!/^$/' \
+| awk '
+    NR == 1 {printf "%s,%s\n", $1, $2; row=0; next}
+    {row++}
+    row % 3 == 1 {printf "%s", $0}
+    row % 3 == 2 {printf " %s", $0}
+    row % 3 == 0 {printf ",%s\n", $0}
+    '
