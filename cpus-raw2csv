@@ -1,0 +1,36 @@
+#! /bin/sh
+
+sed 's/\s\+$//g' \
+| awk '!/^$/' \
+| awk 'NR > 1' \
+| awk '
+    # name
+    NR % 3 == 1 {
+        printf "%s", $0
+    }
+
+    # specs
+    NR % 3 == 2 {
+        freq = $1
+        unit = $2
+        cores = $3
+        sub("^\\(", "", cores)
+        if (unit == "GHz") {
+            freq *= 1000
+        } else if (unit != "MHz") {
+            printf "[error] Frequency unit not GHz|MHz on line %d: %s\n", NR, $0
+            exit 1
+        }
+        printf ",%d,%d", cores, freq
+    }
+
+    # score
+    NR % 3 == 0 {
+        printf ",%d\n", $1
+    }
+    ' \
+| sort \
+| awk '
+    BEGIN {printf "name,cores,freq,score\n"}
+    1
+    '
